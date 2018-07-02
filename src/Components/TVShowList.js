@@ -2,13 +2,12 @@ import React, { Component } from 'react';
 
 class TVShowList extends Component {
 
-
   render() {
     return (
-      <div className="tvShowList">
-
+      <div>
+        Enter your code here
       </div>
-    );
+    )
   }
 
 }
